@@ -4,9 +4,9 @@ This repository contains a well-organized list of books I have read, managed usi
 ## Books
 
 #### Current Reading:
-[Nic mě nezlomí](https://www.databazeknih.cz/knihy/nic-me-nezlomi-540400) - [David Goggins](https://en.wikipedia.org/wiki/David_Goggins) ISBN - ISBN: 978-80-242-9831-3 
+[[Nic mě nezlomí]] - [[David Goggins]] ISBN - ISBN: 978-80-242-9831-3 
 
-Applied cryptography in .net 
+[[Applied Cryptography in .NET and Azure Key Vault: A Practical Guide to Encryption in .NET and .NET Core]] -  Stephen Haunts
 
 #### Read:
 
