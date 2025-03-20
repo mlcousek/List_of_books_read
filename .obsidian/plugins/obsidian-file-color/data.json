@@ -1,6 +1,22 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "yx4s_2exE6RCYXnR5cnu6",
+      "name": "Blue lagune",
+      "value": "#46b6fb"
+    },
+    {
+      "id": "dWt4FeonKmamYctBwwuT8",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "README.md",
+      "color": "yx4s_2exE6RCYXnR5cnu6"
+    }
+  ]
 }
