@@ -11,7 +11,7 @@ Applied cryptography in .net
 #### Read:
 
 
-[[12 pravidel pro život Protilátka proti chaosu]] - [[Jordan B. Peterson]]
+[12 pravidel pro život Protilátka proti chaosu](https://www.databazeknih.cz/knihy/12-pravidel-pro-zivot-protilatka-proti-chaosu-409635) - [Jordan B. Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson)
 ISBN - 978-80-257-2792-8 
 Finnished - 03/2025
 
