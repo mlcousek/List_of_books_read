@@ -1,0 +1,1 @@
+This guy from firm [[Monet+]] really impressed me from the videos and I have my respect for him. He's also the reason I got excited about working in the security industry and I like his work quite a bit. He strikes me as a really good guy.

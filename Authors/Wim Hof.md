@@ -1,0 +1,1 @@
+ [Wim Hof](https://cs.wikipedia.org/wiki/Wim_Hof) is very inspirational human who captivated me with his resilience and showed me what a man is capable of. I like him a lot and sometimes in future I 100% want to start with ice baths again. I will connect it with [[Atomové návyky]] and do cold baths in future for sure.
