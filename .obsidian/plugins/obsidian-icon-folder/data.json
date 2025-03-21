@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPenTool",
       "LiTornado",
       "LiListCheck",
       "LiBook",
-      "LiAtom",
-      "LiAtSign"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,11 @@
   },
   "README.md": "LiTornado",
   "Summary.md": "LiListCheck",
-  "Books/Self education/12 pravidel pro život Protilátka proti chaosu.md": "LiBook"
+  "Authors/Jordan B. Peterson.md": "LiPenTool",
+  "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md": "LiBook",
+  "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md": "LiBook",
+  "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md": "LiBook",
+  "Books/Self improvement/Atomové návyky.md": "LiBook",
+  "Books/Self improvement/Když nemůžeš, přidej!.md": "LiBook",
+  "Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook"
 }

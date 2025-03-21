@@ -1,4 +1,6 @@
+## [12 Rules for life](https://www.databazeknih.cz/knihy/12-pravidel-pro-zivot-protilatka-proti-chaosu-409635) - [Jordan B. Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson)
 ISBN - 978-80-257-2792-8 
+Finished - 03/2025
 
  [[Jordan B. Peterson]] offers readers twelve principles for a happier and more meaningful life in accordance with conscience and deeper ethical values.  
 

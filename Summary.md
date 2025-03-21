@@ -14,11 +14,11 @@ This repository contains a well-organized list of books I have read, managed usi
 ISBN - 978-80-257-2792-8 
 Finished - 03/2025
 
-[[Proč spíme: Odhalte sílu spánku a snění]] - Matthew Walker  
+[[Proč spíme - Odhalte sílu spánku a snění]] - Matthew Walker  
 ISBN - 978-80-7555-050-7
 Finished - 12/2025
 
-[[Posilování stresem: Cesta k odolnosti]] - Pavel Kolář 
+[[Posilování stresem - Cesta k odolnosti]] - Pavel Kolář 
 ISBN - 978-80-242-7465-2
 Finished - 6/2023
 
