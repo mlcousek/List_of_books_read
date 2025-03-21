@@ -41,8 +41,42 @@ Finished - 6/2021
 Finished - 02/2025
 
 
-##### Text for university courses
+#### Successfully finished University courses texts and materials studied and read in [INF UPOL](https://www.inf.upol.cz/)
 
+##### Actual
+###### Summer Semester 2025
 
+##### PAST
+###### Winter Semester 2024
+###### Summer Semester 2024
+###### Winter Semester 2023
+###### Summer Semester 2023
+###### Winter Semester 2022
 
-Diskrétní struktury 1 - učební text k přednáškám - [Radim Bělohlávek](http://belohlavek.inf.upol.cz/)
+Databázové systémy - 
+
+Paradigamta programování 3  - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+###### Summer Semester 2022
+
+Algoritmy 2 - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
+
+Diskrétní struktury 2 - [doc. RNDr. Miroslav Kolařík, Ph.D.](https://phoenix.inf.upol.cz/~kolarikm/)
+
+Paradigamta programování 2  - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+Základy programování 2 - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
+
+Úvod do informačních technologií - [RNDr. Martin Trnečka, Ph.D.](http://trnecka.inf.upol.cz/teaching/)
+
+###### Winter Semester 2021
+
+Paradigamta programování 1  - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+Algoritmy 1 - [prof. RNDr. Radim Bělohlávek, DSc.](http://belohlavek.inf.upol.cz/)
+
+Diskrétní struktury 1 - [prof. RNDr. Radim Bělohlávek, DSc.](http://belohlavek.inf.upol.cz/)
+
+Struktura počítačů  - [doc. Mgr. Jan Outrata, Ph.D.](http://outrata.inf.upol.cz/teaching.html)
+
+Základy programování 1 - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
