@@ -19,18 +19,30 @@ Finished - 03/2025
 ISBN - 978-80-7555-050-7
 Finished - 12/2025
 
-[Posilování stresem](https://www.databazeknih.cz/knihy/posilovani-stresem-cesta-k-odolnosti-473074) - Pavel Kolář 
+[Posilování stresem: Cesta k odolnosti](https://www.databazeknih.cz/knihy/posilovani-stresem-cesta-k-odolnosti-473074) - Pavel Kolář 
 ISBN - 978-80-242-7465-2
-Finished - 
+Finished - 6/2023
 
-Atomové návyky
+[Atomové návyky](https://www.databazeknih.cz/knihy/atomove-navyky-418125) - James Clear
+ISBN - 978-80-222-0999-1
+Finished - 4/2022
 
-Wim Hof ledový muž
+[Když nemůžeš, přidej!](https://www.databazeknih.cz/knihy/kdyz-nemuzes-pridej-463197) - Brendon Burchard
+ISBN - 978-80-7585-093-5
+Finished - 3/2022
 
-Když nemůžeš, přidej
+[Wim Hof – Ledový muž](https://www.databazeknih.cz/knihy/wim-hof-ledovy-muz-454289) - [Wim Hof](https://cs.wikipedia.org/wiki/Wim_Hof)
+ISBN - 978-80-7565-778-7
+Finished - 6/2021
 
 ## Education and technical texts
 
-PKI - Dostalek kurz 02/2025
+[PKI a elektronický podpis](https://www.libordos.eu/wp-content/uploads/2020/04/PKI-a-elektronick%C3%BD-podpis.pdf) - [Libor Dostálek](https://www.databazeknih.cz/autori/libor-dostalek-9180) 
+Finished - 02/2025
+
 
 ##### Text for university courses
+
+
+
+Diskrétní struktury 1 - učební text k přednáškám - [Radim Bělohlávek](http://belohlavek.inf.upol.cz/)
