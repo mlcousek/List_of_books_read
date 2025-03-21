@@ -1,4 +1,4 @@
-# List of books read
+# List of books and study materials read
 This repository contains a well-organized list of books and study materials I have read, managed using Obsidian. The list is regularly updated and categorized for easy navigation.
 
 ## Books

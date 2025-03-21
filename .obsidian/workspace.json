@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "README"
             }
           },
           {
@@ -196,11 +196,11 @@
   },
   "active": "058ba7dd168d1e71",
   "lastOpenFiles": [
+    "Summary.md",
     "README.md",
     "Authors/Libor Dostálek.md",
     "Authors/Untitled",
     "Authors/Psychologist",
-    "Summary.md",
     "Books/Technical books/Cryptography/PKI a elektronický podpis.md",
     "Books/Technical books/Cryptography",
     "Books/Technical books",
