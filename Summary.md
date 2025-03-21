@@ -18,16 +18,26 @@ Finished - 03/2025
 ISBN - 978-80-7555-050-7
 Finished - 12/2025
 
-Posilování stresem
+[[Posilování stresem: Cesta k odolnosti]] - Pavel Kolář 
+ISBN - 978-80-242-7465-2
+Finished - 6/2023
 
-Atomové návyky
+[[Atomové návyky]] - James Clear
+ISBN - 978-80-222-0999-1
+Finished - 4/2022
 
-Wim Hof ledový muž
+[[Když nemůžeš, přidej!]] - Brendon Burchard
+ISBN - 978-80-7585-093-5
+Finished - 3/2022
 
-Když nemůžeš, přidej
+[[Wim Hof – Ledový muž]] - [[Wim Hof]]
+ISBN - 978-80-7565-778-7
+Finished - 6/2021
+
 
 ## Education and technical texts
 
-PKI - Dostalek kurz 02/2025
+[[PKI a elektronický podpis]] - [[Libor Dostálek]] 
+Finished - 02/2025
 
-##### Text for university courses
+

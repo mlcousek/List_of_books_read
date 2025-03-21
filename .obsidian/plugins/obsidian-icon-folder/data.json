@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTornado",
+      "LiListCheck",
+      "LiBook",
       "LiAtom",
       "LiAtSign"
     ],
@@ -31,6 +34,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "README.md": "LiAtSign",
-  "Summary.md": "LiAtom"
+  "README.md": "LiTornado",
+  "Summary.md": "LiListCheck",
+  "Books/Self education/12 pravidel pro život Protilátka proti chaosu.md": "LiBook"
 }
