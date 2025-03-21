@@ -10,14 +10,13 @@ This repository contains a well-organized list of books I have read, managed usi
 
 #### Read:
 
-
 [[12 pravidel pro život Protilátka proti chaosu]] - [[Jordan B. Peterson]]
 ISBN - 978-80-257-2792-8 
-Finnished - 03/2025
+Finished - 03/2025
 
-[Proč spíme: Odhalte sílu spánku a snění]((https://www.databazeknih.cz/knihy/proc-spime-odhalte-silu-spanku-a-sneni-383745) - Matthew Walker  
+[[Proč spíme: Odhalte sílu spánku a snění]] - Matthew Walker  
 ISBN - 978-80-7555-050-7
-Finnished - 12/2025
+Finished - 12/2025
 
 Posilování stresem
 
