@@ -48,14 +48,58 @@ Finished - 02/2025
 
 ##### PAST
 ###### Winter Semester 2024
+
+##### Bachelor studies
 ###### Summer Semester 2024
 ###### Winter Semester 2023
+
+Pravděpodobnost a statistika - [doc. RNDr. Miroslav Kolařík, Ph.D.](https://phoenix.inf.upol.cz/~kolarikm/)
+
+Vyčíslitelnost a složitost - ()
+
+Matematické repetitorium -  RNDr. Lenka Juklová, Ph.D.
+
+Počítačová grafika - [Mgr. Markéta Trnečková, Ph.D.](https://www.marketa-trneckova.cz/#teaching)
+
+Softwarové inženýrství - [Mgr. Radek Janoštík, Ph.D.](https://apollo.inf.upol.cz/~janostik/)
+
+Webové aplikace - [RNDr. Martin Trnečka, Ph.D.](http://trnecka.inf.upol.cz/teaching/)
+
+3D tisk - [Mgr. Markéta Trnečková, Ph.D.](https://www.marketa-trneckova.cz/#teaching)
+
+Aktuální témata z informatiky - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+Odborná prezentace v angličtině - [doc. RNDr. Eduard Bartl, Ph.D.](https://www.inf.upol.cz/lide/eduard-bartl/vyuka)
+
+Jazyk Python 
+
 ###### Summer Semester 2023
+
+Formální jazyky a automaty - [doc. RNDr. Tomáš Masopust, Ph.D., DSc.](https://apollo.inf.upol.cz/~masopust/lecturing.html)
+
+Datové struktury - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
+
+Jazyk C# 2 - [Mgr. Radek Janoštík, Ph.D.](https://apollo.inf.upol.cz/~janostik/)
+
+Matematická analýza 2 - [doc. RNDr. Miroslav Kolařík, Ph.D.](https://phoenix.inf.upol.cz/~kolarikm/)
+
+Seminář z kombinatoriky - [doc. RNDr. Jan Konečný, Ph.D.](https://phoenix.inf.upol.cz/~konecnja/)
+
+Uživatelská rozhraní -  Mgr. Tomáš Mikula
+
 ###### Winter Semester 2022
 
-Databázové systémy - 
-
 Paradigamta programování 3  - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+Algebra 1 - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+
+Algoritmy 3 - [doc. RNDr. Jan Konečný, Ph.D.](https://phoenix.inf.upol.cz/~konecnja/)
+
+Jazyk C# 1 - [Mgr. Radek Janoštík, Ph.D.](https://apollo.inf.upol.cz/~janostik/)
+
+Matematická analýza 1 -   Mgr. Lenka Vítková, Ph.D.
+
+Databázové systémy - [Mgr. Jan Laštovička, Ph.D.](https://www.inf.upol.cz/lide/jan-lastovicka/vyuka)
 
 ###### Summer Semester 2022
 
@@ -63,7 +107,7 @@ Algoritmy 2 - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
 
 Diskrétní struktury 2 - [doc. RNDr. Miroslav Kolařík, Ph.D.](https://phoenix.inf.upol.cz/~kolarikm/)
 
-Paradigamta programování 2  - [doc. RNDr. Michal Krupka, Ph.D.](https://www.inf.upol.cz/lide/michal-krupka)
+Paradigamta programování 2  - [Mgr. Jan Laštovička, Ph.D.](https://www.inf.upol.cz/lide/jan-lastovicka/vyuka)
 
 Základy programování 2 - [Mgr. Petr Osička, Ph.D.](https://phoenix.inf.upol.cz/~osicka/)
 
