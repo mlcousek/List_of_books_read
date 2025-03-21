@@ -40,7 +40,7 @@ Finished - 6/2021
 Finished - 02/2025
 
 
-#### Successfully finished University courses texts and materials studied and read in [INF UPOL](https://www.inf.upol.cz/)
+## Successfully finished University courses texts and materials studied and read in [INF UPOL](https://www.inf.upol.cz/)
 
 ##### Actual
 ###### Summer Semester 2025
