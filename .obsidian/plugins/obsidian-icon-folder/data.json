@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookKey",
       "LiFileText",
       "LiKeyRound",
       "LiThermometerSnowflake",
-      "🧊",
-      "LiPenTool"
+      "🧊"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "Authors/Wim Hof.md": "LiThermometerSnowflake",
   "Authors/Jordan B. Peterson.md": "LiPenTool",
   "Authors/Libor Dostálek.md": "LiKeyRound",
-  "Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText"
+  "Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText",
+  "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md": "LiBookKey"
 }

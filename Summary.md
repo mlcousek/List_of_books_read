@@ -6,9 +6,12 @@ This repository contains a well-organized list of books and study materials I ha
 #### Current Reading:
 [[Nic mě nezlomí]] - [[David Goggins]] ISBN - ISBN: 978-80-242-9831-3 
 
-[[Applied Cryptography in .NET and Azure Key Vault: A Practical Guide to Encryption in .NET and .NET Core]] -  Stephen Haunts
-
 #### Read:
+
+[[Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core]] -  Stephen Haunts
+ISBN-13 (pbk): 978-1-4842-4374-9
+ISBN-13 (electronic): 978-1-4842-4375-6
+Finished - 04/2025
 
 [[12 pravidel pro život Protilátka proti chaosu]] - [[Jordan B. Peterson]]
 ISBN - 978-80-257-2792-8 
