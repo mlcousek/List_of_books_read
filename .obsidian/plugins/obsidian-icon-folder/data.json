@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPenTool",
-      "LiTornado",
-      "LiListCheck",
-      "LiBook",
-      "LiAtom"
+      "LiFileText",
+      "LiKeyRound",
+      "LiThermometerSnowflake",
+      "🧊",
+      "LiPenTool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,11 +36,14 @@
   },
   "README.md": "LiTornado",
   "Summary.md": "LiListCheck",
-  "Authors/Jordan B. Peterson.md": "LiPenTool",
   "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md": "LiBook",
   "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md": "LiBook",
   "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md": "LiBook",
   "Books/Self improvement/Atomové návyky.md": "LiBook",
   "Books/Self improvement/Když nemůžeš, přidej!.md": "LiBook",
-  "Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook"
+  "Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook",
+  "Authors/Wim Hof.md": "LiThermometerSnowflake",
+  "Authors/Jordan B. Peterson.md": "LiPenTool",
+  "Authors/Libor Dostálek.md": "LiKeyRound",
+  "Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText"
 }
