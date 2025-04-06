@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core"
+              "title": "Summary"
             }
           }
         ]
@@ -191,15 +191,15 @@
   },
   "active": "058ba7dd168d1e71",
   "lastOpenFiles": [
-    "Books/Self improvement/Když nemůžeš, přidej!.md",
+    "README.md",
     "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md",
+    "Books/Self improvement/Když nemůžeš, přidej!.md",
     "Books/Technical books/Cryptography/PKI a elektronický podpis.md",
     "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
     "Books/Self improvement/Atomové návyky.md",
     "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md",
     "Books/Self improvement/Wim Hof – Ledový muž.md",
     "Summary.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Books/Technical books/Cryptography",
     "Books/Technical books",
