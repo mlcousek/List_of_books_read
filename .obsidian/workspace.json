@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Books/Self improvement/Nic mě nezlomí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Nic mě nezlomí"
             }
           },
           {
@@ -193,12 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f3a2474ca981ffa",
+  "active": "b6a15d9e72c8e4f2",
   "lastOpenFiles": [
     "Summary.md",
+    "Books/Self improvement/Nic mě nezlomí.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md",
-    "README.md",
     "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
     "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md",
     "Books/Self improvement/Wim Hof – Ledový muž.md",

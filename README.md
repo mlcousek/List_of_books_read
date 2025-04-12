@@ -4,11 +4,16 @@ This repository contains a well-organized list of books and study materials I ha
 ## Books
 
 #### Current Reading:
+
+[New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) - [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie), [Martin E. Hellman](https://en.wikipedia.org/wiki/Martin_Hellman)
+
+IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. IT-22, NO. 6, NOVEMBER 1976
+
+#### Read:
+
 [Nic mě nezlomí](https://www.databazeknih.cz/knihy/nic-me-nezlomi-540400) - [David Goggins](https://en.wikipedia.org/wiki/David_Goggins) 
 
 ISBN - ISBN: 978-80-242-9831-3 
-
-#### Read:
 
 [Applied Cryptography in .NET and Azure Key Vault: A Practical Guide to Encryption in .NET and .NET Core](https://www.amazon.com/Applied-Cryptography-NET-Azure-Vault/dp/1484243749) -  Stephen Haunts
 

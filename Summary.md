@@ -4,9 +4,17 @@ This repository contains a well-organized list of books and study materials I ha
 ## Books
 
 #### Current Reading:
-[[Nic mě nezlomí]] - [[David Goggins]] ISBN - ISBN: 978-80-242-9831-3 
+[[New Directions in Cryptography]] - Whitfield Diffie, Martin E. Hellman
+
+IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. IT-22, NO. 6, NOVEMBER 1976
 
 #### Read:
+
+[[Nic mě nezlomí]] - [[David Goggins]] 
+
+ISBN - ISBN: 978-80-242-9831-3 
+
+Finished - 4/2025
 
 [[Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core]] -  Stephen Haunts
 
