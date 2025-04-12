@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Summary"
             }
           },
           {
@@ -195,8 +195,14 @@
   },
   "active": "058ba7dd168d1e71",
   "lastOpenFiles": [
-    "Summary.md",
     "README.md",
+    "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
+    "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md",
+    "Books/Self improvement/Wim Hof – Ledový muž.md",
+    "Books/Self improvement/Když nemůžeš, přidej!.md",
+    "Books/Self improvement/Atomové návyky.md",
+    "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md",
+    "Summary.md",
     "Authors/Libor Dostálek.md",
     "Authors/Untitled",
     "Authors/Psychologist",
@@ -204,12 +210,6 @@
     "Books/Technical books/Cryptography",
     "Books/Technical books",
     "Authors/Wim Hof.md",
-    "Books/Self improvement/Wim Hof – Ledový muž.md",
-    "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md",
-    "Books/Self improvement/Když nemůžeš, přidej!.md",
-    "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md",
-    "Books/Self improvement/Atomové návyky.md",
-    "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
     "Authors/Jordan B. Peterson.md",
     "Books/Books.md",
     "Applied Cryptography in .NET and Azure Key Vault- A Practical Guide to Encryption in .NET and .NET Core.md",
