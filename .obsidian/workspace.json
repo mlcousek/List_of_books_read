@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Self improvement/Nic mě nezlomí.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nic mě nezlomí"
+              "title": "README"
             }
           },
           {
@@ -193,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6a15d9e72c8e4f2",
+  "active": "058ba7dd168d1e71",
   "lastOpenFiles": [
     "Summary.md",
-    "Books/Self improvement/Nic mě nezlomí.md",
     "README.md",
+    "Books/Self improvement/Nic mě nezlomí.md",
+    "Authors/David Goggins.md",
     "conflict-files-obsidian-git.md",
     "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md",
     "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
