@@ -4,11 +4,17 @@ This repository contains a well-organized list of books and study materials I ha
 ## Books
 
 #### Current Reading:
+
+Není to naše chyba - Ondřej Valsa
+
+ISBN:
+#### Read:
+
 [[New Directions in Cryptography]] - Whitfield Diffie, Martin E. Hellman
 
 IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. IT-22, NO. 6, NOVEMBER 1976
 
-#### Read:
+Finished - 4/2025
 
 [[Nic mě nezlomí]] - [[David Goggins]] 
 

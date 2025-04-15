@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookKey",
       "LiBicepsFlexed",
       "LiBook",
       "LiCode",
-      "LiFileText",
-      "LiKeyRound"
+      "LiFileText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText",
   "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md": "LiCode",
   "Books/Self improvement/Nic mě nezlomí.md": "LiBook",
-  "Authors/David Goggins.md": "LiBicepsFlexed"
+  "Authors/David Goggins.md": "LiBicepsFlexed",
+  "Education and technical texts/New Directions in Cryptography.md": "LiBookKey"
 }
