@@ -5,9 +5,9 @@ This repository contains a well-organized list of books and study materials I ha
 
 #### Current Reading:
 
-Není to naše chyba - Ondřej Valsa
+[[Není to naše chyba]] - Ondřej Valsa
 
-ISBN:
+ISBN: 978-80-7691-413-1
 #### Read:
 
 [[New Directions in Cryptography]] - Whitfield Diffie, Martin E. Hellman

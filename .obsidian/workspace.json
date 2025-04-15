@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Summary"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "058ba7dd168d1e71",
   "lastOpenFiles": [
-    "Summary.md",
     "README.md",
+    "Summary.md",
     "Education and technical texts/New Directions in Cryptography.md",
     "Books/Self improvement/Nic mě nezlomí.md",
     "Authors/David Goggins.md",
