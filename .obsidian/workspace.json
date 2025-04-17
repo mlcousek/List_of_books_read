@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Auxiliary topics/Companies/Monet+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Monet+"
             }
           },
           {
@@ -193,11 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "058ba7dd168d1e71",
+  "active": "b6a15d9e72c8e4f2",
   "lastOpenFiles": [
-    "README.md",
-    "Summary.md",
+    "Auxiliary topics/Companies",
+    "Auxiliary topics",
+    "Authors/Libor Dostálek.md",
+    "Auxiliary topics/Companies/Monet+.md",
     "Education and technical texts/New Directions in Cryptography.md",
+    "Summary.md",
+    "README.md",
     "Books/Self improvement/Nic mě nezlomí.md",
     "Authors/David Goggins.md",
     "conflict-files-obsidian-git.md",
@@ -208,7 +212,6 @@
     "Books/Self improvement/Když nemůžeš, přidej!.md",
     "Books/Self improvement/Atomové návyky.md",
     "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md",
-    "Authors/Libor Dostálek.md",
     "Authors/Untitled",
     "Authors/Psychologist",
     "Books/Technical books/Cryptography/PKI a elektronický podpis.md",

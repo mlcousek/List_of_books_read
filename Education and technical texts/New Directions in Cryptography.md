@@ -34,19 +34,23 @@ has two keys: a public encryption key and a private decryption key. It is comput
 ally infeasible to derive the private key from the public key. This means that secure
 communication is possible without needing a shared secret in advance.
 The paper gives two key approaches:
+
 • Public Key Cryptosystems, where different users can encrypt messages using
 the public key of a receiver, who then decrypts it using their private key.
+
 • Public Key Distribution Systems, which enable two users to establish a shared
 secret key through public interaction, without transmitting the key itself.
-The Diffie-Hellman key exchange is a pioneering method in this area. It allows
-two users to create a shared secret over a public channel, relying on the computational
-difficulty of the discrete logarithm problem. Each user selects a secret number and pub-
-lishes a computed value. The shared key is then derived by each user using their private
-number and the other party’s public value. An eavesdropper cannot compute the shared
-key without solving the difficult math problem behind it.
+
+The Diffie-Hellman key exchange is a pioneering method in this area, which I
+personally like a lot and therefore I will describe it here. It allows two users to create a
+shared secret over a public channel, relying on the computational difficulty of the discrete
+logarithm problem. Each user selects a secret number and publishes a computed value.
+The shared key is then derived by each user using their private number and the other
+party’s public value. An eavesdropper cannot compute the shared key without solving
+the difficult math problem behind it.
 This concept is not just clever—it is a fundamental breakthrough. As someone who
-is just diving into cryptography, I find this idea exciting because it makes secure com-
-munication feel like a clever puzzle solved with math. The fact that it works over public,
+is just diving into cryptography, I find this idea exciting because it makes secure communication
+feel like a clever puzzle solved with math. The fact that it works over public,
 unsecured channels feels like magic backed by hard science.
 ### 4. Authentication and Digital Signatures
 This section deals with verifying the identity of message senders. A major problem in
@@ -83,6 +87,25 @@ also praises contributions from amateur cryptographers and encourages open innov
 in the field.
 References
 
+## Asymmetry in Danger
+
+Last week, I attended a lecture on post-quantum cryptography by [[Anežka Pejlová]] from
+[[Monet+]], where I am currently doing an internship. I found the talk quite good, interesting
+and also a bit sad from the point of view of asymmetric cryptography. It’s strange
+and fascinating to think that quantum computers, which still seem like science fiction to
+many people, could actually break most of the asymmetric cryptographic systems we use
+today. In the talk, we discussed how public key cryptography, which started with the
+famous 1976 paper by Diffie and Hellman, might soon become obsolete. It feels like the
+possible end of a whole chapter in cryptographic history. In Section VI of their paper,
+the authors talk about computational complexity and NP problems as the foundation
+of secure cryptography. But with quantum algorithms like Shor’s algorithm [2], some of
+these problems, such as factoring large numbers or computing discrete logarithms, could
+become solvable — making many asymmetric systems insecure. That’s why research in
+post-quantum cryptography is now so important. I’m curious, and I’ll definitely be a
+part of how it turns out in the end.
 
 [1] Whitfield Diffie and Martin E. Hellman. New directions in cryptography. IEEE
 Transactions on Information Theory, 22(6):644–654, 1976
+
+[2] Peter W. Shor. Polynomial-time algorithms for prime factorization and discrete logarithms
+on a quantum computer. arXiv preprint quant-ph/9508027, 1994.
