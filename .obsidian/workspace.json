@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Auxiliary topics/Companies/Monet+.md",
+                "file": "Auxiliary topics/Peoples/Anežka Pejlová.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monet+"
+              "title": "Anežka Pejlová"
             }
           },
           {
@@ -195,11 +195,14 @@
   },
   "active": "b6a15d9e72c8e4f2",
   "lastOpenFiles": [
+    "Education and technical texts/New Directions in Cryptography.md",
+    "Auxiliary topics/Peoples/Anežka Pejlová.md",
+    "Auxiliary topics/Companies/Monet+.md",
+    "Auxiliary topics/Peoples/Zdeněk Drlík.md",
+    "Auxiliary topics/Peoples",
     "Auxiliary topics/Companies",
     "Auxiliary topics",
     "Authors/Libor Dostálek.md",
-    "Auxiliary topics/Companies/Monet+.md",
-    "Education and technical texts/New Directions in Cryptography.md",
     "Summary.md",
     "README.md",
     "Books/Self improvement/Nic mě nezlomí.md",
@@ -225,7 +228,6 @@
     "Books/Self improvement",
     "Books/Untitled.md",
     "Authors",
-    "Education and technical texts",
-    "Books"
+    "Education and technical texts"
   ]
 }
