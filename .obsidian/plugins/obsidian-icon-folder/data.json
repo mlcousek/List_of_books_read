@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiBookKey",
-      "LiBicepsFlexed",
-      "LiBook",
-      "LiCode",
-      "LiFileText"
+      "LiFileText",
+      "LiKeyRound",
+      "LiThermometerSnowflake",
+      "🧊"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,20 +34,17 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "README.md": "LiTornado",
-  "Summary.md": "LiListCheck",
-  "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md": "LiBook",
-  "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md": "LiBook",
-  "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md": "LiBook",
-  "Books/Self improvement/Atomové návyky.md": "LiBook",
-  "Books/Self improvement/Když nemůžeš, přidej!.md": "LiBook",
-  "Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook",
-  "Authors/Wim Hof.md": "LiThermometerSnowflake",
-  "Authors/Jordan B. Peterson.md": "LiPenTool",
-  "Authors/Libor Dostálek.md": "LiKeyRound",
-  "Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText",
-  "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md": "LiCode",
-  "Books/Self improvement/Nic mě nezlomí.md": "LiBook",
-  "Authors/David Goggins.md": "LiBicepsFlexed",
-  "Education and technical texts/New Directions in Cryptography.md": "LiBookKey"
+  "List of books read/README.md": "LiTornado",
+  "List of books read/Summary.md": "LiListCheck",
+  "List of books read/Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md": "LiBookKey",
+  "List of books read/Books/Technical books/Cryptography/PKI a elektronický podpis.md": "LiFileText",
+  "List of books read/Books/Self improvement/Atomové návyky.md": "LiBook",
+  "List of books read/Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md": "LiBook",
+  "List of books read/Books/Self improvement/Když nemůžeš, přidej!.md": "LiBook",
+  "List of books read/Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md": "LiBook",
+  "List of books read/Books/Self improvement/Posilování stresem - Cesta k odolnosti.md": "LiBook",
+  "List of books read/Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook",
+  "List of books read/Authors/Jordan B. Peterson.md": "LiPenTool",
+  "List of books read/Authors/Wim Hof.md": "LiThermometerSnowflake",
+  "List of books read/Authors/Libor Dostálek.md": "LiKeyRound"
 }
