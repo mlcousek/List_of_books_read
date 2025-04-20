@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "747961621b8e24cf",
+        "id": "c94c44c6661bfba6",
         "type": "tabs",
         "children": [
           {
-            "id": "058ba7dd168d1e71",
+            "id": "95c27255b19864a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -160,16 +156,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "344130d4db40d643",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 4
@@ -189,41 +175,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "058ba7dd168d1e71",
+  "active": "95c27255b19864a6",
   "lastOpenFiles": [
-    "Summary.md",
-    "README.md",
-    "Education and technical texts/New Directions in Cryptography.md",
-    "Education and technical texts",
-    "Books/Self improvement/Nic mě nezlomí.md",
-    "Auxiliary topics/Peoples/Zdeněk Drlík.md",
     "Auxiliary topics/Peoples/Anežka Pejlová.md",
-    "Auxiliary topics/Peoples",
+    "Education and technical texts/New Directions in Cryptography.md",
     "Auxiliary topics/Companies/Monet+.md",
+    "Auxiliary topics/Peoples/Zdeněk Drlík.md",
+    "Auxiliary topics/Peoples",
     "Auxiliary topics/Companies",
     "Auxiliary topics",
+    "Authors/Libor Dostálek.md",
+    "Summary.md",
+    "README.md",
+    "Books/Self improvement/Nic mě nezlomí.md",
     "Authors/David Goggins.md",
+    "conflict-files-obsidian-git.md",
     "Books/Technical books/Cryptography/Applied Cryptography in .NET and Azure Key Vault - A Practical Guide to Encryption in .NET and .NET Core.md",
-    "Books/Self improvement/Když nemůžeš, přidej!.md",
-    "Books/Technical books/Cryptography/PKI a elektronický podpis.md",
     "Books/Self improvement/Posilování stresem - Cesta k odolnosti.md",
+    "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md",
+    "Books/Self improvement/Wim Hof – Ledový muž.md",
+    "Books/Self improvement/Když nemůžeš, přidej!.md",
     "Books/Self improvement/Atomové návyky.md",
     "Books/Self improvement/12 pravidel pro život Protilátka proti chaosu.md",
-    "Books/Self improvement/Wim Hof – Ledový muž.md",
-    "conflict-files-obsidian-git.md",
+    "Authors/Untitled",
+    "Authors/Psychologist",
+    "Books/Technical books/Cryptography/PKI a elektronický podpis.md",
     "Books/Technical books/Cryptography",
     "Books/Technical books",
     "Authors/Wim Hof.md",
-    "Authors/Libor Dostálek.md",
-    "Books/Self improvement/Proč spíme - Odhalte sílu spánku a snění.md",
-    "Books/Self improvement",
     "Authors/Jordan B. Peterson.md",
-    "Books/Self education/12 pravidel pro život Protilátka proti chaosu.md",
-    "().md",
     "Books/Books.md",
-    "Books/Self education",
+    "Applied Cryptography in .NET and Azure Key Vault- A Practical Guide to Encryption in .NET and .NET Core.md",
+    "().md",
+    "Books/Self improvement",
     "Books/Untitled.md",
     "Authors",
-    "Books"
+    "Education and technical texts"
   ]
 }
