@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "LiBookKey",
       "LiFileText",
       "LiKeyRound",
-      "LiThermometerSnowflake",
-      "🧊"
+      "LiThermometerSnowflake"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "List of books read/Books/Self improvement/Wim Hof – Ledový muž.md": "LiBook",
   "List of books read/Authors/Jordan B. Peterson.md": "LiPenTool",
   "List of books read/Authors/Wim Hof.md": "LiThermometerSnowflake",
-  "List of books read/Authors/Libor Dostálek.md": "LiKeyRound"
+  "List of books read/Authors/Libor Dostálek.md": "LiKeyRound",
+  "List of books read/Books/Self improvement/Nic mě nezlomí.md": "LiBook"
 }
