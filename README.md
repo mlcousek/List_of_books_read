@@ -46,7 +46,7 @@ Finished - 02/2025
 
 ISBN - 978-80-7555-050-7
 
-Finished - 12/2025
+Finished - 12/2024
 
 ##### [Posilování stresem: Cesta k odolnosti](https://www.databazeknih.cz/knihy/posilovani-stresem-cesta-k-odolnosti-473074) - Pavel Kolář 
 
